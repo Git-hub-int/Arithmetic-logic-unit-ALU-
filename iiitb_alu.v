@@ -1,4 +1,4 @@
-# Arithmetic-logic-unit-ALU-
+// Arithmetic-logic-unit-ALU-
 //Verilog module for an ALU
 module iiitb_alu(
 clk,
