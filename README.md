@@ -12,5 +12,6 @@ GTKWave for waveform visualization
 
 iverilog -o alu_test alu.v alu_tb.v
 vvp alu_test
+
 gtkwave alu_waveform.vcd
 
