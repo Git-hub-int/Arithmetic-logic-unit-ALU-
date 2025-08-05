@@ -23,3 +23,4 @@ vvp alu_test
 gtkwave alu_waveform.vcd
 
 OUTPUT:-
+<img width="1366" height="729" alt="Image" src="https://github.com/user-attachments/assets/f998d7be-2b38-48f2-aeb1-302fac6498a0" />
